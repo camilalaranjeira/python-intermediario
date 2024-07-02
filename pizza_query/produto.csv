@@ -1,0 +1,86 @@
+idProduto,tipo,descItem,vlPreco
+0,ingrediente,abacate,5.25
+1,ingrediente,abacaxi,2.5
+2,ingrediente,abobrinha,2
+3,ingrediente,alcaparra,3
+4,ingrediente,alho,1
+5,ingrediente,alho-poró,2.5
+6,ingrediente,amêndoas,3.5
+7,ingrediente,anchova,4
+8,ingrediente,anchova em conserva,4.5
+9,ingrediente,atum,4
+10,ingrediente,azeite de oliva,2
+11,ingrediente,azeitona,1.5
+12,ingrediente,bacon,3
+13,ingrediente,berinjela,2
+14,ingrediente,beterraba,2.5
+15,borda,borda tradicional,0
+16,ingrediente,brócolis,2.5
+17,ingrediente,calabresa,3.5
+18,ingrediente,camarão,6
+19,ingrediente,carne moída,4
+20,ingrediente,carne seca,5
+21,ingrediente,castanhas,4.75
+22,queijo,catupiry,7.5
+23,ingrediente,cebola,1.5
+24,ingrediente,cebola caramelizada,2.5
+25,ingrediente,cebolinha,1
+26,ingrediente,cereja,3.8
+27,bebida,cerveja,6.75
+28,borda,cheddar,8.45
+29,bebida,chá gelado,6
+30,ingrediente,cogumelos,2
+31,borda,cream cheese,9
+32,ingrediente,ervilha,1.5
+33,ingrediente,espinafre,2.5
+34,ingrediente,frango,3.5
+35,queijo,gorgonzola,9.5
+36,ingrediente,grão de bico,2.5
+37,ingrediente,lentilha,2.5
+38,bebida,limonada,5
+39,ingrediente,linguiça,3.5
+40,ingrediente,linguiça calabresa defumada,4
+41,massa,massa fina,7
+42,massa,massa grossa,12
+43,massa,massa integral,13.75
+44,massa,massa tradicional,9.25
+45,ingrediente,mel,2
+46,ingrediente,milho,1.5
+47,queijo,mussarela,6
+48,ingrediente,nozes,3.5
+49,ingrediente,orégano,1
+50,ingrediente,ovo,2.5
+51,ingrediente,palmito,3
+52,queijo,parmesão,7
+53,ingrediente,pepperoni,3.5
+54,ingrediente,picles,1.5
+55,ingrediente,pimenta biquinho,2
+56,ingrediente,pimenta calabresa,1.5
+57,ingrediente,pimentão,1.5
+58,ingrediente,pimentão assado,2
+59,ingrediente,presunto,2.5
+60,queijo,provolone,7
+61,ingrediente,pêssego,2.5
+62,queijo,queijo brie,11.25
+63,queijo,queijo cheddar,4
+64,queijo,queijo coalho,10.5
+65,queijo,queijo coalho grelhado,4
+66,queijo,queijo de cabra,4.5
+67,queijo,queijo feta,4
+68,queijo,queijo gouda,3.5
+69,queijo,queijo roquefort,5
+70,bebida,refrigerante,7.25
+71,queijo,ricota,10.25
+72,ingrediente,rúcula,2
+73,borda,borda catupiry,5
+74,ingrediente,salsinha,1
+75,bebida,suco de abacaxi,6.5
+76,bebida,suco de laranja,6
+77,bebida,suco de maracujá,6.5
+78,bebida,suco de uva,5.75
+79,ingrediente,tofu,2.5
+80,ingrediente,tomate,1.5
+81,ingrediente,tomate seco,6.25
+82,ingrediente,uva passa,3.75
+83,bebida,vinho tinto,12
+84,bebida,água com gás,5
