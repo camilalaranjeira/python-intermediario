@@ -1,4 +1,4 @@
-idPedido,dtPedido,flKetchup,descUF,txtRecado
+id_pedido,dt_pedido,fl_ketchup,desc_uf,txt_recado
 0,2023-05-11T10:59:33.000+0000,null,GO,null
 1,2023-05-11T11:23:42.000+0000,null,PR,Aquela pizza perfeita! :-D
 2,2023-05-11T11:24:29.000+0000,null,SP,Muito obrigado!!
