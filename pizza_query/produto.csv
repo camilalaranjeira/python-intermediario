@@ -1,4 +1,4 @@
-idProduto,tipo,descItem,vlPreco
+id_produto,tipo,desc_item,vl_preco
 0,ingrediente,abacate,5.25
 1,ingrediente,abacaxi,2.5
 2,ingrediente,abobrinha,2
