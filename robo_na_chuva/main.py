@@ -20,7 +20,7 @@ def draw_player(key):
             line = ""
         console.print(line)
 
-# altera as variáveis globais de posição do coração
+# altera as variáveis globais de posição do robôzinho
 def move_player(key):
     global player_x, player_y
 
