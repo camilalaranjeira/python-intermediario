@@ -1,7 +1,7 @@
 # python-intermediario
 
 * Código exemplo
-   * `exemplo_keyboard`: Código básico exemplificando o uso do módulo `pynput.keyboard`, além alguns recursos básicos das bibliotecas `rich` e `playsound`.
+   * `exemplo_keyboard/`: Código básico exemplificando o uso do módulo `pynput.keyboard`, além alguns recursos básicos das bibliotecas `rich` e `playsound`.
 
 * Datasets:
    * fifa-wc: arquivos retirados dos seguintes datasets do Kaggle
