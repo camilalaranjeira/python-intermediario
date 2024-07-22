@@ -1,5 +1,8 @@
 # python-intermediario
 
+* Código exemplo
+   * `exemplo_keyboard`: Código básico exemplificando o uso do módulo `pynput.keyboard`, além alguns recursos básicos das bibliotecas `rich` e `playsound`.
+
 * Datasets:
    * fifa-wc: arquivos retirados dos seguintes datasets do Kaggle
       * Football - FIFA World Cup, 1930 - 2022: https://www.kaggle.com/datasets/piterfm/fifa-football-world-cup?select=matches_1930_2022.csv
